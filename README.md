@@ -1,5 +1,3 @@
-# Mateus
-
 # Olá! Eu sou o Mateus Santos 👋
 
 ### 🧩 Analista de Sistemas | ERP Sankhya | Oracle SQL | Machine Learning & IA
