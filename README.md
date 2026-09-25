@@ -88,7 +88,7 @@ Engenheiro de Computação pelo **Centro Universitário ENIAC**, com o **melhor 
 
 - 🤖 **Pós-graduação em Machine Learning e Inteligência Artificial** — Centro Universitário ENIAC *(bolsista, 2026)*
 - 🎓 **Bacharelado em Engenharia de Computação** — Centro Universitário ENIAC *(2021 – 2025)*
-- 🇬🇧 Inglês — Cultura Inglesa *(em andamento)* · Yázigi *(2015 – 2018)*
+- 🦁 Inglês — Cultura Inglesa *(em andamento)* · Yázigi *(2015 – 2018)*
 
 ---
 
