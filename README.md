@@ -97,7 +97,7 @@ Engenheiro de Computação pelo **Centro Universitário ENIAC**, com o **melhor 
 - 🤖 Machine Learning e IA aplicados a dados corporativos
 - 🗄️ Oracle SQL e modelagem de dados
 - ☕ Linguagem Java
-- 🇬🇧 Inglês
+- 🦁 Inglês - Cultura Inglesa
 
 ---
 
