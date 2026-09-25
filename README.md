@@ -60,7 +60,6 @@ Engenheiro de Computação pelo **Centro Universitário ENIAC**, com o **melhor 
 
 **IA e Machine Learning**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
 
 **Colaboração**
